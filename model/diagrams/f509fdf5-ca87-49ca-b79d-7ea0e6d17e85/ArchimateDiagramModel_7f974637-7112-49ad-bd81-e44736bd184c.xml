@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for 上下班打卡"
+    id="7f974637-7112-49ad-bd81-e44736bd184c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8d672d1e-8498-4747-9012-01a106e1ba19"
+      targetConnections="982a1505-b1da-4ad8-898a-78bf5a85935f">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_1a007ee9-728b-4ad9-9c81-36b9f4d5ffc8.xml#1a007ee9-728b-4ad9-9c81-36b9f4d5ffc8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="76b9c80b-3c93-40d6-96f7-707bfcb051ba">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="982a1505-b1da-4ad8-898a-78bf5a85935f"
+        source="76b9c80b-3c93-40d6-96f7-707bfcb051ba"
+        target="8d672d1e-8498-4747-9012-01a106e1ba19">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_37218aff-24f4-44cf-a419-7a8af2f585b1.xml#37218aff-24f4-44cf-a419-7a8af2f585b1"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_9f5a7ccc-1912-4d73-bbeb-ef76b079d213.xml#9f5a7ccc-1912-4d73-bbeb-ef76b079d213"/>
+  </children>
+</archimate:ArchimateDiagramModel>
